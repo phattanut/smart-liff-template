@@ -1,5 +1,5 @@
 # smart-liff-template
-# 💊 ระบบค้นหายา Smart Search (Template สำหรับเพื่อนๆ)
+# 💊 ระบบค้นหายา Smart Search (Template)
 
 โปรเจกต์นี้เป็นตัวอย่างการสร้าง LIFF เพื่อค้นหายาจาก Google Sheet 
 โดยใช้สถาปัตยกรรม GitHub (หน้าบ้าน) + Google Apps Script (หลังบ้าน)
